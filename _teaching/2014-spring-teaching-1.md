@@ -1,5 +1,5 @@
 ---
-title: "Stochastic Processes"
+title: "Stochastic Processe"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
