@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "ENSAE Paris"
-date: 01/10/25
+date: "01/10/25"
 location: "Palaiseau, France"
 ---
 
