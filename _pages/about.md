@@ -11,5 +11,5 @@ redirect_from:
 
 I am interested in sampling, Monte Carlo methods (MCMC and unbiased MCMC), and Markov chain theory (spectral gaps, couplings, and ergodicity). At the moment, I am working on coupling techniques for MCMC algorithms and on the estimation of normalization constants.
 
-**Contact** mohamed *dot* keteb *at* essec.edu
-**Office** ESSEC BS, Nautile Building.
+**Contact** mohamed *dot* keteb *at* essec.edu<br>
+**Office** ESSEC Business School in The Nautile Building.

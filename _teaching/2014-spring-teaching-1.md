@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Stochastic Processes"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "ENSAE Paris"
+date: 01/10/25
+location: "Palaiseau, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I teach the tutorial calss of Introdution to Stochastic Processes (Prof. [N.Chopin](https://nchopin.github.io/)).
